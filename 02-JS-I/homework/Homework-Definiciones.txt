@@ -1,0 +1,12 @@
+*Variable:
+    Es un elemento al que se le puede asignar cualquier valor, ya sea numérico o alfabético, mejor conocido como String
+*String
+    Es una cadena de palabras que se pueden asignar a cualquier variable
+*Funciones (argumentos, 'return')
+    Son líneas de código que ejecutan tareas específicas que generalmente son repetitivas, para reducir el numero de líneas de código
+    Los argumentos son los valores que se introducen en las funciones para realizar las acciones establecidas, y con el comando 'return' regresamos los resultados de los comandos establecidos a la parte principal del código
+*Declaraciones ('if')
+    Las declaraciones 'if' son funciones que evaluan si la condición que se establece es verdaera o no, y dependiendo del resultado evalua el bloque de código correspondiente
+* Valores booleanos (`true`, `false`)
+    Estos valores nos ayudan para poder diferenciar entre dos tipos de evaluaciones dentro de las declaraciones.
+    Cuando tenemos valores verdaderos ('True') ejecutarán una parte de la función y si son valores falsos (False) evaluarán la otra parte de la fución
