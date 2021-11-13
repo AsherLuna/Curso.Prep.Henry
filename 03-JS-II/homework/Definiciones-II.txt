@@ -1,0 +1,19 @@
+* `for`
+la palabra reservada "for" se utiliza para realizar ciclos repetitivos
+se le deben dar 3 tipos de parametros.
+
+"for (a;b;c){}"
+
+a=inicio del contador
+b=condicion que se va a evaluar para finalizar el ciclo
+c=en cuanto se debe incrementar el contador cad ciclo
+
+
+
+* `&&`, `||`, `!`
+
+`&&` - representación de la palabra reservada AND, significa que evaluara que las condiciones que se le den sean todas verdaderas, en caso de ser falsa alguna de las condiciones regresará un valor falso.
+
+`||` - representación de la palabra reservada OR, significa que evaluara que las condiciones que se le den sean cuando menos una verdaderas, regresará un valor falso solo cuando ambos valores sean falsos.
+
+`!` - representa la palabra reservada NOT, significa negación, si tenemos un valor verdadero, esta condición nos regresaráun valor falso y viceversa.
