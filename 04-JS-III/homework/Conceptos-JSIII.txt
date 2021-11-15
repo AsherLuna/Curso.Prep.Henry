@@ -1,0 +1,8 @@
+* Arrays
+
+Se refierre a una matriz o arreglo para almacenar datos e posiciones definidas.
+Dichos arreglos pueden tener tantas columnas y renglones como necesitemos
+Una matriz de 3x3, tiene dos coordenadas para almacenar los datos y la primera posición siempre inicia en cero
+| 0,0| 0,1| 0,2|
+| 1,0| 1,1| 1,2|
+| 2,0| 2,1| 2,2|
