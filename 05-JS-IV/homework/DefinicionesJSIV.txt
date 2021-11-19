@@ -1,0 +1,16 @@
+	* Objetos - Se llaman objetos aquellos elemntos que tienen características que describen datos propios
+    En el de las personas podrian ser nombre, apellido, edad, estaura, peso, etc.
+    De esta forma cada objeto tendra características específicas.
+    
+
+	* Propiedades - Son atributos o carácteristicas propias de cada objeto. Las Propiedades siempre van asociadas a un objeto
+    
+
+	* Métodos - Son funciones que ejecutan cierta información dentro de las propiedades de un objeto
+	
+    
+    * Bucle `for…in` - Esta función nos permite revisar cada una de las propiedades de un objeto y sus atributos en un ciclo especial.
+	
+    
+    * Notación de puntos vs notación de corchetes - Ambas notaciones nos sirven para extraer información específica de los objetos, "llamando" los atributos de cada propiedad.
+    
