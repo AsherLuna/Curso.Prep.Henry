@@ -1,0 +1,4 @@
+* `prototype` - Es una función que nos permite acceer a funciones utilizadas por las clases sin necesidad de declararlas para cada uno de los objetos creados.
+Es una especie de plantilla que llamamos para acceder a los datos y funciones específicas.
+
+* _Constructors_ (de Clases) - Se utiliza para crear objetos, este método se utiliza para reducir líneas de código, y se ve reflejado en menos uso de memoria, ya que evita repetir la información una y otra vez, en cambio, permite acceso a las funciones con propiedades y características similares.
