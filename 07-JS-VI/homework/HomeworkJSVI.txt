@@ -1,0 +1,3 @@
+* Funciones Callback
+Este tipo de funciones se encargan de ejecutar otras funciones, reuciendeo los tiempos de ejecición.
+Estas funciones son muy útiles para poder realizar funciones asíncronas, que no necesitas una secuencia específica, sino son activadas por eventos específicos
